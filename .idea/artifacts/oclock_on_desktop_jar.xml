@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="oclock_on_desktop:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/oclock_on_desktop_jar</output-path>
+    <root id="archive" name="oclock_on_desktop.jar">
+      <element id="module-output" name="oclock_on_desktop" />
+    </root>
+  </artifact>
+</component>
