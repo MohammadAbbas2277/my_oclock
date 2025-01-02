@@ -125,6 +125,8 @@ public class frm_oclock extends JFrame implements Runnable {
         });
         add(btnTime);
 
+
+
         btnRunningTime = new JButton("Running time");
         btnRunningTime.setBounds(305, 40, 90, 30);
         btnRunningTime.setFont(new Font("", Font.BOLD, 20));
